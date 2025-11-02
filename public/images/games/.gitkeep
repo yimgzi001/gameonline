@@ -1,0 +1,18 @@
+# 游戏缩略图目录
+
+将游戏缩略图放在这里。
+
+推荐格式：
+- 文件名：与游戏 slug 相同，如 `monster-survivors.jpg`
+- 尺寸：800x500px（16:10 比例）
+- 格式：JPG（优化后，< 200KB）
+- 质量：80-90%
+
+示例：
+```
+public/images/games/
+├── monster-survivors.jpg
+├── puzzle-game.jpg
+└── action-hero.jpg
+```
+
